@@ -26,8 +26,8 @@ const Hero = () => {
           <div className="relative">
             <div className="rounded-2xl overflow-hidden shadow-xl ring-1 ring-black/5">
               <img
-                src="https://images.unsplash.com/photo-1517649763962-0c623066013b?q=80&w=1600&auto=format&fit=crop"
-                alt="Football turf"
+                src="https://images.unsplash.com/photo-1517747614396-d21a78b850e8?q=80&w=1600&auto=format&fit=crop"
+                alt="Football players on turf during a match"
                 className="w-full h-72 md:h-96 object-cover"
                 loading="eager"
               />
